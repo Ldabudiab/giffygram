@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leith",
+      "dateJoined": 1630513816881,
+      "email": "ldabudiab@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "john",
+      "dateJoined": 1630513816881,
+      "email": "ldabudiab@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "jess",
+      "dateJoined": 1630513816881,
+      "email": "ldabudiab@gmail.com"
+    }
+  ],
+  
+  
+  "posts": [
+
+    {
+      "id":1,
+      "userId":1,
+      "title": "poop",
+      "imageURL": "https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif"
+    },
+
+    {
+      "id":1,
+      "userId":1,
+      "title": "poop",
+      "imageURL": "https://media.giphy.com/media/a93jwI0wkWTQs/giphy.gif"
+    }
+
+  ],
+
+
+  "messages": []
+}
