@@ -27,13 +27,15 @@
       "id":1,
       "userId":1,
       "title": "poop",
+      "timestamp": 1631120000948,
       "imageURL": "https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif"
     },
 
     {
-      "id":1,
-      "userId":1,
+      "id":2,
+      "userId":2,
       "title": "poop",
+      "timestamp": 1536425791124,
       "imageURL": "https://media.giphy.com/media/a93jwI0wkWTQs/giphy.gif"
     }
 
