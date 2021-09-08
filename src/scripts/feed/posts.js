@@ -5,7 +5,8 @@ export const Post = (postObject) => {
 
     return `
       <section class="post">
-        <header>          
+        <header>   
+            <img class="user__image" src="${postObject.profilePic}" />       
             <h2 class="post__title">${postObject.title}</h2>
         </header>
         <img class="post__image" src="${postObject.imageURL}" />
