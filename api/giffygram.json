@@ -2,7 +2,6 @@
   "users": [
     {
       "id": 1,
-      "profilePic": "https://www.pngitem.com/pimgs/m/206-2063781_tiny-turtle-pokemon-squirtle-hides-in-its-shell.png",
       "name": "Leith",
       "dateJoined": 1630513816881,
       "email": "ldabudiab@gmail.com"
@@ -22,50 +21,12 @@
   ],
   "posts": [
     {
-      "id": 1,
+      "title": "na",
+      "imageURL": "https://media.giphy.com/media/88iYsvbegSUn9bSTF8/giphy.gif",
+      "description": "stop it bruh ",
       "userId": 1,
-      "title": "poop",
-      "timestamp": 1631120000948,
-      "imageURL": "https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif"
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "title": "poop",
-      "timestamp": 1536425791124,
-      "imageURL": "https://media.giphy.com/media/a93jwI0wkWTQs/giphy.gif"
-    },
-    {
-      "title": "AT",
-      "imageURL": "https://media.giphy.com/media/13p77tfexyLtx6/giphy.gif",
-      "description": "lets go",
-      "userId": 1,
-      "timestamp": 1631129834682,
-      "id": 3
-    },
-    {
-      "title": "BMO",
-      "imageURL": "https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif",
-      "description": "bmo baby",
-      "userId": 1,
-      "timestamp": 1631129984086,
-      "id": 4
-    },
-    {
-      "title": "jesus christ",
-      "imageURL": "https://media.giphy.com/media/102AsbWPQZXbeU/giphy.gif",
-      "description": "",
-      "userId": 1,
-      "timestamp": 1631131670931,
-      "id": 5
-    },
-    {
-      "title": "i did it ",
-      "imageURL": "https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif",
-      "description": "use your head bruv ",
-      "userId": 1,
-      "timestamp": 1631132214814,
-      "id": 6
+      "timestamp": 1632164991264,
+      "id": 1
     }
   ],
   "messages": []
