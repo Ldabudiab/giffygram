@@ -149,13 +149,14 @@ applicationElement.addEventListener("change", event => {
       const title = document.querySelector("input[name='postTitle']").value
       const url = document.querySelector("input[name='postURL']").value
       const description = document.querySelector("textarea[name='postDescription']").value
-      //we have not created a user yet - for now, we will hard code `1`.
-      //we can add the current time as well
+      
+      const user = JSON.parse(sessionStorage.getItem("user"))
+
       const postObject = {
           title: title,
           imageURL: url,
           description: description,
-          userId: 1,
+          userId: user.id,
           timestamp: Date.now()
       }
 
