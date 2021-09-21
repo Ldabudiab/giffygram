@@ -1,31 +1,18 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Leith",
-      "dateJoined": 1630513816881,
-      "email": "ldabudiab@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "john",
-      "dateJoined": 1630513816881,
-      "email": "ldabudiab@gmail.com"
-    },
-    {
-      "id": 3,
-      "name": "jess",
-      "dateJoined": 1630513816881,
-      "email": "ldabudiab@gmail.com"
+      "name": "ldabudiab",
+      "email": "ldabudiab@gmail.com",
+      "id": 1
     }
   ],
   "posts": [
     {
-      "title": "na",
-      "imageURL": "https://media.giphy.com/media/88iYsvbegSUn9bSTF8/giphy.gif",
-      "description": "stop it bruh ",
+      "title": "pog",
+      "imageURL": "https://media.giphy.com/media/3ohs4Ao48zzdwNdmdq/giphy.gif",
+      "description": "wow",
       "userId": 1,
-      "timestamp": 1632164991264,
+      "timestamp": 1632247096134,
       "id": 1
     }
   ],

@@ -1,12 +1,12 @@
 
 
 
-export const Post = (postObject) => {
+export const Post = (postObject, userObject) => {
 
     return `
       <section class="post">
         <header>   
-              
+           
             <h2 class="post__title">${postObject.title}</h2>
         </header>
         <img class="post__image" src="${postObject.imageURL}" />
